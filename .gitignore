@@ -1,2 +1,4 @@
 #Hide secret key
 secret.txt
+#hide DS Store
+.DS_Store
